@@ -1,0 +1,8 @@
+Dentro del trabajo con GIt
+
+Palabras comunes
+
+push. Significa enviar mis cambios al repo remoto
+pull. Significa actualizar mi repositorio actual
+
+COMMIT. Significa inficarle al control de versiones que cambios hechos son definitivos
